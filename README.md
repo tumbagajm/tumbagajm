@@ -4,7 +4,7 @@
 
 <img align="right" alt="Coding" width="250" src="https://66.media.tumblr.com/tumblr_maw5scIAwf1rfjowdo1_500.gif">
 
-- 🌱 I’m currently learning **PHP**
+- 🌱 I’m currently learning **JavaScript**
 
 - 📫 How to reach me **tumbagajohn@gmail.com**
 
