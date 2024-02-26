@@ -1,6 +1,6 @@
-![image](https://github.com/tumbagajm/tumbagajm/assets/117602715/af938575-26c2-4164-811c-667f53d9a649)[![MasterHead](https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif)](https://github.com/tumbagajm)
+![image](https://github.com/tumbagajm/tumbagajm/assets/117602715/af938575-26c2-4164-811c-667f53d9a649)[![MasterHead]([https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif)](https://gifdb.com/images/high/lofi-rooftop-study-night-chill-lqcvkej9ymld5zbv.webp)](https://github.com/tumbagajm)
 <h1 align="center">Hi 👋, I'm JM</h1>
-<h3 align="center">Just another random guy on the internet</h3>
+<h3 align="cente)r">Just another random guy on the internet</h3>
 
 <img align="right" alt="Coding" width="250" src="https://66.media.tumblr.com/tumblr_maw5scIAwf1rfjowdo1_500.gif">
 
