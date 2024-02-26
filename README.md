@@ -1,4 +1,8 @@
-[![MasterHead](https://gifdb.com/images/high/lofi-rooftop-study-night-chill-lqcvkej9ymld5zbv.webp)](https://github.com/tumbagajm)
+<p align="center">
+  <a href="https://github.com/tumbagajm">
+    <img src="https://gifdb.com/images/high/lofi-rooftop-study-night-chill-lqcvkej9ymld5zbv.webp" alt="MasterHead" />
+  </a>
+</p>
 <h1 align="center">Hi 👋, I'm JM</h1>
 <h3 align="center">Just another random guy on the internet</h3>
 
