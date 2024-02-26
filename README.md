@@ -1,4 +1,4 @@
-![image](https://github.com/tumbagajm/tumbagajm/assets/117602715/af938575-26c2-4164-811c-667f53d9a649)[![MasterHead](https://gifdb.com/images/high/lofi-rooftop-study-night-chill-lqcvkej9ymld5zbv.webp)](https://github.com/tumbagajm)
+[![MasterHead](https://gifdb.com/images/high/lofi-rooftop-study-night-chill-lqcvkej9ymld5zbv.webp)](https://github.com/tumbagajm)
 <h1 align="center">Hi 👋, I'm JM</h1>
 <h3 align="center">Just another random guy on the internet</h3>
 
