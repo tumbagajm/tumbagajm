@@ -4,7 +4,7 @@
   </a>
 </p>
 <h1 align="center">Hi 👋, I'm JM</h1>
-<h3 align="center">Just another random guy on the internet</h3>
+<h3 align="center">♥</h3>
 
 <img align="right" alt="Coding" width="250" src="https://66.media.tumblr.com/tumblr_maw5scIAwf1rfjowdo1_500.gif">
 
